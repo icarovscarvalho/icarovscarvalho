@@ -17,7 +17,14 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+## Estilos & Data Bases
+<div style="display: inline_block">
   <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Mongodbs-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
 </div><br>
 
 <a href="https://github.com/icarovscarvalho/convoychat">
