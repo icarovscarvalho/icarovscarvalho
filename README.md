@@ -5,7 +5,7 @@
 <div> 
   <a href = "mailto:icarovscarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/icarovscarvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://devicarocarvalho.web.app/" target="_blank"><img src="https://img.shields.io/badge/-Site Portifolio-%47A248?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://devicarocarvalho.web.app/" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-DD0700?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ## Tecnologias que uso no meu dia:
@@ -15,17 +15,19 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white" />
   <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+  <img align="center" alt="firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
 </div>
 
 ## Estilos & Data Bases
 <div style="display: inline_block">
   <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Mongodbs-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="tailwindcss" src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="mongodb" src="https://img.shields.io/badge/Mongodbs-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="center" alt="mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </div><br>
 
 <a href="https://github.com/icarovscarvalho/convoychat">
